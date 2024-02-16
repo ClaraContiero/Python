@@ -11,4 +11,3 @@ random.shuffle(lista) # embaralha a lista
 print(f'A ordem de alunos a apresentar é: {lista}')
 
 
-
