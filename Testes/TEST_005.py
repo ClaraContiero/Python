@@ -14,8 +14,10 @@ Manipulando cadeias de texto
 
 """
 
-frase = 'Maria Clara Contieroooo'
-print(frase)
+frase = 'Maria Clara Contiero'
+print(frase.split())
+
+
 
 
 
