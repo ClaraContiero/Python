@@ -1,4 +1,4 @@
-import math
+import math # posso dar um apelido pra biblio -> import as 'apelido'
 
 angulo = int(input('Digite um ângulo qualquer: \n'))
 radiano = math.radians(angulo)
